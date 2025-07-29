@@ -13,5 +13,5 @@ This repository contains the official, SEO-optimized resume of **Pavan Kumar Bar
 
 ## 🔗 Quick Links
 - 🌐 Portfolio: [www.pavanbarman.engineer](https://www.pavanbarman.engineer)
-- 📄 Resume (PDF): [Download Resume](./pavan-kumar-barman-resume.pdf)
+- 📄 Resume (PDF): [Download Resume](./resume-pavan-kumar-barman.pdf)
 - 🔍 Keywords: Pavan Kumar Barman, Pavan Barman, Full Stack MERN Developer, MongoDB, LangChain, AI Chatbot, India, Microsoft Intern, TechRxiv
